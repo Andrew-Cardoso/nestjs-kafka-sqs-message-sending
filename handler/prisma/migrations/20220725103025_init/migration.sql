@@ -1,0 +1,5 @@
+-- CreateTable
+CREATE TABLE "CatFacts" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "fact" TEXT NOT NULL
+);
